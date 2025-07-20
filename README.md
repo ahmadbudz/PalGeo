@@ -57,7 +57,7 @@ Understanding Palestine’s geography and preserving its cultural identity is mo
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/mitrikhoury/PalGeo.git
+   git clone https://github.com/ahmadbudz/PalGeo.git
     ```
 
 2. Set up the **Flutter app**:
